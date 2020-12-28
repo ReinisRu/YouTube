@@ -24,15 +24,29 @@
   font-weight: 300;
   src: url(Roboto/Roboto-LightItalic.ttf);
 }
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  src: url(Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 500;
+  src: url(Roboto/Roboto-MediumItalic.ttf);
+}
+
 @font-face {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
-  src: url(Roboto/Roboto-Black.ttf);
+  src: url(Roboto/Roboto-Bold.ttf);
 }
 @font-face {
   font-family: "Roboto";
   font-style: italic;
   font-weight: 700;
-  src: url(Roboto/Roboto-BlackItalic.ttf);
+  src: url(Roboto/Roboto-BoldItalic.ttf);
 }
